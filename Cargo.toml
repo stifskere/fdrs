@@ -1,0 +1,9 @@
+[package]
+name = "fdrs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+globset = "0.4.15"
+thiserror = "2.0.3"
