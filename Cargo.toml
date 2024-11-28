@@ -1,7 +1,7 @@
 [package]
 name = "fdrs"
 description = "A simple fd implementation in rust."
-license = "Unlicensed"
+license = "Unlicense"
 keywords = ["fd", "find", "fd-command"]
 version = "0.1.0"
 edition = "2021"
