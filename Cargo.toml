@@ -3,6 +3,7 @@ name = "fdrs"
 description = "A simple fd implementation in rust."
 license = "Unlicense"
 keywords = ["fd", "find", "fd-command"]
+readme = "readme.md"
 version = "0.1.0"
 edition = "2021"
 
