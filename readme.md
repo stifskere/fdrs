@@ -1,6 +1,11 @@
 
 # FDRS
 
+> [!warning]
+> This project is unmaintained as of the last commit it has, it is not promised that the project will continue being in crates.io, but that won't change anytime soon.
+>
+> This was my first rust project uploaded to crates.io, and it will remain in here for history.
+
 A super simple implementation of the unix command `fd`.
 
 The following is as stated contextually in the command help:
